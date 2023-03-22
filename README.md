@@ -4,4 +4,5 @@ proxychains aracının grafik arayüzlü halidir.Basit kullanımı vardır porxy
 ## Çalıştırma
 
 chmod +x torproxy.py
+
 python torproxy.py
