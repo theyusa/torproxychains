@@ -1,5 +1,6 @@
 # torproxychains
-proxychains aracının grafik arayüzlü halidir.Basit kullanımı vardır porxy yapmak istediğiniz aracın ismini yazmanız ve bağlan'a tıklamanız yeterlidir.
+Proxychains aracının grafik arayüzlü halidir.Basit kullanımı vardır porxy yapmak istediğiniz aracın ismini yazmanız ve bağlan'a tıklamanız yeterlidir.
+Araç tor servisini kullandığı için programı sonlandırmadan önce servisi kapatmak için dur'a tıklayınız
 
 ## Çalıştırma
 
